@@ -1,2 +1,6 @@
-# security-scan
-It provides all the necessary documents that requires to complete the scan without getting project owner role in the client's environment
+Instructions for Running the Scripts -
+
+
+Please find the Google doc link below, which includes all the detailed steps needed to execute the scripts: 
+
+https://docs.google.com/document/d/1GuoPYUwMJja9B380Sw0vUDhd2EtshZTF-pKjayRtWeE/edit
