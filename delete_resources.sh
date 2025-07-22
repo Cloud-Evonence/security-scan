@@ -4,7 +4,7 @@
 PROJECT_ID="your-project-id"
 SERVICE_ACCOUNT_NAME="sec-sa"
 SECRET_ID="scan-secret"
-USER_EMAIL="chap.utkarsh@gmail.com"
+USER_EMAIL="utkarsh.pandey@evonence.com"
 
 # Set the project
 gcloud config set project $PROJECT_ID
